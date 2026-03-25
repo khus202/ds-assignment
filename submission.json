@@ -1,0 +1,6 @@
+{
+  "prompt": "A master tailor's workshop, hyper-realistic photography style. A bespoke suit on a mannequin is stitched so obsessively tight — every seam, dart, and fold follows the exact curves of one specific body — that it buckles, puckers, and warps in strange places. Nearby, a second plain mannequin with a normal body shape tries on the same suit and it looks completely unwearable, twisted and deformed. Warm workshop lighting, wooden floors, fabric swatches, measuring tapes on the table. No text, no labels, no diagrams.",
+  "model": "Ideogram 2",
+  "concept": "overfitting",
+  "metaphor": "A suit tailored obsessively to one mannequin fits perfectly there but warps grotesquely on any other body, mirroring how an overfitted model fails on unseen data."
+}
